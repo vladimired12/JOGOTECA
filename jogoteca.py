@@ -9,7 +9,7 @@ class Jogo:
     
 jogo1 = Jogo('Tetris', 'Puzzle', 'Atari')
 jogo2 = Jogo('God of War', 'Rack n Slash', 'PS2')
-jogo3 = Jogo('Valorand', 'FPS Tático', 'PC')
+jogo3 = Jogo('Valorant', 'FPS Tático', 'PC')
 lista=[jogo1, jogo2, jogo3]
 
 app = Flask(__name__)
