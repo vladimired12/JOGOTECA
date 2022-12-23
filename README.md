@@ -1,4 +1,5 @@
-# Estudo do curso da Alura de flask
+# Projeto do curso da Alura
+## Flask: Crie um webapp com python
 
 ## Módulos 6/6
 Terminado com sucesso! 
